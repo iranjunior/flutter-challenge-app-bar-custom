@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sliver_app/pages/widgets/card_locations.dart';
+import 'package:sliver_app/pages/home/widgets/card_locations.dart';
 
 class GridLocations extends StatelessWidget {
   const GridLocations({
